@@ -1,0 +1,3 @@
+rosu - 5v
+negru - gnd
+galben - A0
